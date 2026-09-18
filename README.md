@@ -19,7 +19,7 @@ Gratuit pour PC Windows 10 et 11 · compatible Xtream et M3U
 <br />
 
 <p align="center">
-  <img src=".github/assets/accueil.jpg" alt="L’écran d’accueil de SF IPTV : la lecture en cours, une rangée « Reprendre », puis les ajouts récents en affiches." width="900" />
+  <img src=".github/assets/accueil-2.jpg" alt="L’écran d’accueil de SF IPTV : la lecture en cours, une rangée « Reprendre », puis les ajouts récents en affiches." width="900" />
 </p>
 
 ## Ce que fait SF IPTV
@@ -36,7 +36,7 @@ Des affiches à la place des listes interminables, une recherche qui trouve, et 
 - **Lecture dans VLC**, fourni avec l’application : tout se lit tel quel, sans réglage.
 
 <p align="center">
-  <img src=".github/assets/live.jpg" alt="Les chaînes en direct dans SF IPTV, avec le programme en cours." width="900" />
+  <img src=".github/assets/live-2.jpg" alt="Les chaînes en direct dans SF IPTV, avec le programme en cours." width="900" />
 </p>
 
 ## Installation
